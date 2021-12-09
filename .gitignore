@@ -1,3 +1,7 @@
 .env/*
 test/*
 .vscode/*
+__pycache__/*
+
+.env
+digital_factory_demo/*
