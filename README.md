@@ -1,6 +1,7 @@
 # dash_tutorial
 https://dash.plotly.com/introduction
 
+```mermaid
 stateDiagram-v2
     [*] --> Still
     Still --> [*]
@@ -8,4 +9,4 @@ stateDiagram-v2
     Moving --> Still
     Moving --> Crash
     Crash --> [*]
-            
+```
